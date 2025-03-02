@@ -1,4 +1,4 @@
-# FreeRDP: A Remote Desktop Protocol Implementation
+we# FreeRDP: A Remote Desktop Protocol Implementation
 
 FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license.
 Enjoy the freedom of using your software wherever you want, the way you want it, in a world where
